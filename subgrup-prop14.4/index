@@ -1,0 +1,10 @@
+This is the folder that contains all the files of the project.
+
+1) .idea : The directory .idea contains some configuration files for the project which shall not be deleted at any cost.
+2) Mastermind: The directory Mastermind contains all the code of the project including the make file and compiled .jar file.
+3) ranking.txt : This text file contains the score of the players. Even if you delete it,  it will be regenerated
+   everytime you play and finish a game. I recommend this file to be not deleted.
+
+This folder also contains Equipo.pdf which has identity information of the members of the group.
+
+If you want to check the code or execute it, the directory "Mastermind" is the one you should look for.
